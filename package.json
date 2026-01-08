@@ -1,0 +1,18 @@
+{
+  "name": "historiaclinica",
+  "version": "1.0.0",
+  "description": "Sistema de Historia Clínica Odontológica",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
